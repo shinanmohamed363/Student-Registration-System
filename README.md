@@ -366,4 +366,4 @@ student-registration-system/
 
 ## License
 
-This project is developed as part of an academic assignment.
+This project is developed as part of an internship assignment.
