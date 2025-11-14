@@ -1,0 +1,18 @@
+name: student_registration_backend
+description: RESTful API for Student Registration System using Dart Shelf
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  shelf: ^1.4.1
+  shelf_router: ^1.1.4
+  mysql1: ^0.20.0
+  dart_jsonwebtoken: ^2.13.0
+  crypto: ^3.0.3
+  dotenv: ^4.2.0
+
+dev_dependencies:
+  lints: ^2.1.0
